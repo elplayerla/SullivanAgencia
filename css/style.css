@@ -1028,6 +1028,7 @@ header .scroll-down span::before {
   display: flex;
 }
 .navbar .right ul {
+  visibility: hidden;
   margin-left: auto;
   margin-bottom: 0;
   padding: 0;
