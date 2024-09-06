@@ -48,12 +48,12 @@ theme.
 */
 
 
-@import url('https://fonts.googleapis.com/css?family=Dancing+Script|Fjalla+One|Poppins:400,600,800&subset=latin-ext');
+@import url('https://fonts.googleapis.com/css2?family=Instrument+Sans:ital,wght@0,400..700;1,400..700&display=swap');
 
 
-@mixin font-one {font-family: 'Poppins', sans-serif;}
-@mixin font-two {font-family: 'Fjalla One', sans-serif;}
-@mixin font-three {font-family: 'Dancing Script', cursive;}
+@mixin font-one {font-family: 'Instrument Sans', sans-serif;}
+@mixin font-two {font-family: 'Instrument Sans', sans-serif;}
+@mixin font-three {font-family: 'Instrument Sans', sans-serif;}
 @mixin font-render{-webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility;	-moz-osx-font-smoothing: grayscale;}
 @mixin transition{-webkit-transition: .25s ease-in-out;-moz-transition: .25s ease-in-out;-ms-transition: .25s ease-in-out; -o-transition: .25s ease-in-out; transition: .25s ease-in-out;}
 @mixin transition-cubic{-webkit-transition: all 0.5s ease;	-moz-transition: all 0.5s ease;	transition: all 0.5s ease;
@@ -507,7 +507,7 @@ header{ transform: scale(1.5); @include transition-cubic;
 				h6{ font-size: 23px; margin-bottom: 30px; line-height: 1.5;}
 				blockquote{display: block; padding: 40px; margin-bottom: 40px; background: $color-turquaz; @include font-two; position: relative;
 				&:before{content: "\f10e"; font-family: fontawesome; font-size: 90px; position: absolute; left: 40px; top: 0; opacity: 0.1;}
-				h5{font-weight: 800; font-family: Poppins; margin: 0;}}
+				h5{font-weight: 800; font-family: Instrument Sans; margin: 0;}}
 				ul{padding-left: 20px;
 					li{line-height: 1.9;}}
 			p{display: block; line-height: 30px; 
