@@ -47,7 +47,7 @@ theme.
 
 
 */
-@import url("https://fonts.googleapis.com/css?family=Dancing+Script|Fjalla+One|Poppins:400,600,800&subset=latin-ext");
+@import url('https://fonts.googleapis.com/css2?family=Instrument+Sans:ital,wght@0,400..700;1,400..700&display=swap');
 /* BODY */
 * {
   outline: none !important;
@@ -56,7 +56,7 @@ theme.
 body {
   margin: 0;
   padding: 0;
-  font-family: "Poppins", sans-serif;
+  font-family: "Instrument Sans", sans-serif;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
   -moz-osx-font-smoothing: grayscale;
@@ -244,7 +244,7 @@ section {
   display: inline-block;
   transform: translateY(10px);
   color: #fff;
-  font-family: "Fjalla One", sans-serif;
+  font-family: "Instrument Sans", sans-serif;
   font-size: 13px;
   text-transform: uppercase;
 }
@@ -484,7 +484,7 @@ section {
 .navigation-menu .inner blockquote {
   display: block;
   font-size: 2vw;
-  font-family: "Fjalla One", sans-serif;
+  font-family: "Instrument Sans", sans-serif;
   text-transform: uppercase;
   color: #8c38fd;
   opacity: 0;
@@ -740,7 +740,7 @@ section {
 }
 .header .container .tagline h6 {
   float: left;
-  font-family: "Fjalla One", sans-serif;
+  font-family: "Instrument Sans", sans-serif;
   opacity: 0.5;
   margin-top: 2px;
   margin-bottom: 0;
@@ -880,7 +880,7 @@ section {
 }
 .page-header .container p {
   margin-bottom: 0;
-  font-family: "Fjalla One", sans-serif;
+  font-family: "Instrument Sans", sans-serif;
   color: #8c38fd;
 }
 
@@ -920,7 +920,7 @@ header .left-side ul li {
 header .left-side ul li a {
   font-size: 14px;
   color: #fff;
-  font-family: "Fjalla One", sans-serif;
+  font-family: "Instrument Sans", sans-serif;
   -webkit-transition: 0.25s ease-in-out;
   -moz-transition: 0.25s ease-in-out;
   -ms-transition: 0.25s ease-in-out;
@@ -946,7 +946,7 @@ header .scroll-down small {
   transform: rotate(-90deg);
   margin-bottom: 50px;
   color: #fff;
-  font-family: "Fjalla One", sans-serif;
+  font-family: "Instrument Sans", sans-serif;
 }
 header .scroll-down span {
   display: block;
@@ -979,7 +979,7 @@ header .scroll-down span::before {
   top: 0;
   padding: 20px 40px;
   color: #fff;
-  font-family: "Fjalla One", sans-serif;
+  font-family: "Instrument Sans", sans-serif;
   font-size: 14px;
   z-index: 10;
   transform: translateY(-130%);
@@ -1346,7 +1346,7 @@ header .scroll-down span::before {
 }
 .swiper-slider .swiper-slide .slide-inner .container .tagline h6 {
   float: left;
-  font-family: "Fjalla One", sans-serif;
+  font-family: "Instrument Sans", sans-serif;
   opacity: 0.5;
   margin-top: 2px;
   margin-bottom: 0;
@@ -1431,7 +1431,7 @@ header .scroll-down span::before {
   display: block;
   line-height: 1;
   margin-bottom: 20px;
-  font-family: "Fjalla One", sans-serif;
+  font-family: "Instrument Sans", sans-serif;
   opacity: 0.5;
   font-size: 14px;
 }
@@ -1453,7 +1453,7 @@ header .scroll-down span::before {
 }
 .intro h4 {
   margin-top: 5px;
-  font-family: "Fjalla One", sans-serif;
+  font-family: "Instrument Sans", sans-serif;
   font-size: 23px;
   line-height: 40px;
   text-transform: uppercase;
@@ -1489,7 +1489,7 @@ header .scroll-down span::before {
   display: block;
   line-height: 1;
   margin-bottom: 20px;
-  font-family: "Fjalla One", sans-serif;
+  font-family: "Instrument Sans", sans-serif;
   opacity: 0.5;
   font-size: 14px;
   position: relative;
@@ -1581,7 +1581,7 @@ s .process span:before {
   display: block;
   line-height: 1;
   margin-bottom: 20px;
-  font-family: "Fjalla One", sans-serif;
+  font-family: "Instrument Sans", sans-serif;
   font-size: 14px;
 }
 .services-content-block h2 {
@@ -1602,7 +1602,7 @@ s .process span:before {
 }
 .services-content-block small {
   display: inline-block;
-  font-family: "Fjalla One", sans-serif;
+  font-family: "Instrument Sans", sans-serif;
   color: #8c38fd;
 }
 .services-content-block span {
@@ -1613,7 +1613,7 @@ s .process span:before {
   margin: 5px 15px;
 }
 .services-content-block h4 {
-  font-family: "Fjalla One", sans-serif;
+  font-family: "Instrument Sans", sans-serif;
   font-size: 17px;
   margin-bottom: 30px;
 }
@@ -1641,7 +1641,7 @@ s .process span:before {
   display: block;
   line-height: 1;
   margin-bottom: 20px;
-  font-family: "Fjalla One", sans-serif;
+  font-family: "Instrument Sans", sans-serif;
   opacity: 0.5;
   font-size: 14px;
 }
@@ -1724,7 +1724,7 @@ s .process span:before {
 .works .project-box .content-box .inner small {
   display: block;
   margin-bottom: 20px;
-  font-family: "Fjalla One", sans-serif;
+  font-family: "Instrument Sans", sans-serif;
   opacity: 0.5;
   font-size: 14px;
 }
@@ -1752,7 +1752,7 @@ s .process span:before {
   display: block;
   line-height: 1;
   margin-bottom: 20px;
-  font-family: "Fjalla One", sans-serif;
+  font-family: "Instrument Sans", sans-serif;
   opacity: 0.5;
   font-size: 14px;
 }
@@ -1765,7 +1765,7 @@ s .process span:before {
 }
 .works-single h4 {
   margin-top: 5px;
-  font-family: "Fjalla One", sans-serif;
+  font-family: "Instrument Sans", sans-serif;
   font-size: 25px;
   line-height: 40px;
   text-transform: uppercase;
@@ -1776,7 +1776,7 @@ s .process span:before {
 }
 .works-single h5 {
   margin-bottom: 20px;
-  font-family: "Fjalla One", sans-serif;
+  font-family: "Instrument Sans", sans-serif;
   text-transform: uppercase;
   font-size: 20px;
   margin-top: 10px;
@@ -1788,7 +1788,7 @@ s .process span:before {
   color: #8c38fd;
   text-align: center;
   text-transform: uppercase;
-  font-family: "Fjalla One", sans-serif;
+  font-family: "Instrument Sans", sans-serif;
 }
 .works-single p {
   margin-bottom: 30px;
@@ -1822,7 +1822,7 @@ s .process span:before {
   display: block;
   line-height: 1;
   margin-bottom: 20px;
-  font-family: "Fjalla One", sans-serif;
+  font-family: "Instrument Sans", sans-serif;
   opacity: 0.5;
   font-size: 14px;
 }
@@ -1861,7 +1861,7 @@ s .process span:before {
   margin-bottom: 5px;
 }
 .team figure figcaption h4 {
-  font-family: "Fjalla One", sans-serif;
+  font-family: "Instrument Sans", sans-serif;
   font-size: 16px;
   text-transform: uppercase;
   margin-bottom: 0;
@@ -1904,7 +1904,7 @@ s .process span:before {
   display: block;
   line-height: 1;
   margin-bottom: 20px;
-  font-family: "Fjalla One", sans-serif;
+  font-family: "Instrument Sans", sans-serif;
   font-size: 14px;
 }
 .work-with-us h2 {
@@ -1925,7 +1925,7 @@ s .process span:before {
 }
 .work-with-us h4 {
   margin-top: 5px;
-  font-family: "Fjalla One", sans-serif;
+  font-family: "Instrument Sans", sans-serif;
   font-size: 25px;
   line-height: 40px;
   text-transform: uppercase;
@@ -1954,7 +1954,7 @@ s .process span:before {
   font-size: 15px;
 }
 .awards .odometer {
-  font-family: "Fjalla One", sans-serif;
+  font-family: "Instrument Sans", sans-serif;
   font-size: 40px;
 }
 
@@ -1970,7 +1970,7 @@ s .process span:before {
   display: block;
   line-height: 1;
   margin-bottom: 20px;
-  font-family: "Fjalla One", sans-serif;
+  font-family: "Instrument Sans", sans-serif;
   opacity: 0.5;
   font-size: 14px;
 }
@@ -1991,7 +1991,7 @@ s .process span:before {
 .clients h4 {
   margin-top: 5px;
   margin-bottom: 40px;
-  font-family: "Fjalla One", sans-serif;
+  font-family: "Instrument Sans", sans-serif;
   font-size: 25px;
   line-height: 40px;
   text-transform: uppercase;
@@ -2037,7 +2037,7 @@ s .process span:before {
   text-align: center;
   font-size: 600;
   opacity: 0;
-  font-family: "Fjalla One", sans-serif;
+  font-family: "Instrument Sans", sans-serif;
   font-size: 22px;
 }
 .clients ul li:hover small {
@@ -2140,7 +2140,7 @@ s .process span:before {
   display: block;
   font-size: 14px;
   opacity: 0.5;
-  font-family: "Fjalla One", sans-serif;
+  font-family: "Instrument Sans", sans-serif;
 }
 .news .post .post-content .inner .post-title {
   display: block;
@@ -2158,7 +2158,7 @@ s .process span:before {
 }
 .news .post .post-content .inner .post-author {
   display: block;
-  font-family: "Fjalla One", sans-serif;
+  font-family: "Instrument Sans", sans-serif;
   text-transform: uppercase;
   margin-bottom: 30px;
 }
@@ -2183,7 +2183,7 @@ s .process span:before {
   padding: 40px;
   margin-bottom: 40px;
   background: #8c38fd;
-  font-family: "Fjalla One", sans-serif;
+  font-family: "Instrument Sans", sans-serif;
   position: relative;
 }
 .news .post .post-content .inner blockquote:before {
@@ -2197,7 +2197,7 @@ s .process span:before {
 }
 .news .post .post-content .inner blockquote h5 {
   font-weight: 800;
-  font-family: Poppins;
+  font-family: Instrument Sans;
   margin: 0;
 }
 .news .post .post-content .inner ul {
@@ -2225,7 +2225,7 @@ s .process span:before {
   display: block;
   line-height: 1;
   margin-bottom: 20px;
-  font-family: "Fjalla One", sans-serif;
+  font-family: "Instrument Sans", sans-serif;
   opacity: 0.5;
   font-size: 14px;
 }
@@ -2319,7 +2319,7 @@ s .process span:before {
   display: block;
   line-height: 1;
   margin-bottom: 20px;
-  font-family: "Fjalla One", sans-serif;
+  font-family: "Instrument Sans", sans-serif;
   opacity: 0.5;
   font-size: 14px;
 }
@@ -2375,7 +2375,7 @@ s .process span:before {
   background: #fff;
 }
 .direction figure figcaption .inner h5 {
-  font-family: "Fjalla One", sans-serif;
+  font-family: "Instrument Sans", sans-serif;
   font-size: 26px;
   margin-bottom: 20px;
 }
@@ -2444,7 +2444,7 @@ s .process span:before {
 }
 .footer .footer-bottom h5 {
   margin-bottom: 10px;
-  font-family: "Fjalla One", sans-serif;
+  font-family: "Instrument Sans", sans-serif;
   text-transform: uppercase;
   color: #8c38fd;
 }
